@@ -73,6 +73,8 @@ recommendations.
 ![Easypaisa](https://img.shields.io/badge/Easypaisa-3DB44B?style=flat&logoColor=white)
 
 
+👩‍💻 Developer Contact
+Ayesha Amjad — Front-End Developer 📧 ayeshaamjad819@gmail.com 🌐 Live Project: https://petsphere.infinityfree.me  🔗 github.com/AyeshaCodes25
 
 ## 🔐 Demo Login Credentials
 

@@ -1,12 +1,10 @@
 # Pet Sphere 🐾🐶
-
 An all-in-one web application for pet lovers providing a centralized 
 digital platform to purchase animals, book veterinary appointments, 
 and order medicines — all in one place.
 
 ## 🌐 Live Demo
 🔗 https://petsphere.infinityfree.me
-
 
 ## 📋 About the Project
 Pet Sphere is a comprehensive pet care platform designed to make pet 
@@ -16,7 +14,6 @@ health records, and order prescribed medicines — all from within the app.
 The platform features live doctor availability, online consultations, 
 digital prescriptions, an emergency SOS system, and AI-powered product 
 recommendations.
-
 
 ## ✨ Key Features
 
@@ -54,7 +51,6 @@ recommendations.
 - Reports and analytics (sales, bookings, active users)
 - Doctor verification and status management
 
-
 ## 🛠️ Technologies Used
 
 ### Frontend
@@ -72,10 +68,6 @@ recommendations.
 ![JazzCash](https://img.shields.io/badge/JazzCash-E91E1E?style=flat&logoColor=white)
 ![Easypaisa](https://img.shields.io/badge/Easypaisa-3DB44B?style=flat&logoColor=white)
 
-
-👩‍💻 Developer Contact
-Ayesha Amjad — Front-End Developer 📧 ayeshaamjad819@gmail.com 🌐 Live Project: https://petsphere.infinityfree.me  🔗 github.com/AyeshaCodes25
-
 ## 🔐 Demo Login Credentials
 
 ### ⚙️ Admin Panel
@@ -86,4 +78,15 @@ Ayesha Amjad — Front-End Developer 📧 ayeshaamjad819@gmail.com 🌐 Live Pro
 - **Email:** client@petsphere.com
 - **Password:** client123
 
+---
+
+## 👩‍💻 Developer Contact
+**Ayesha Amjad** — Front-End Developer
+📧 ayeshaamjad819@gmail.com
+🌐 Live Project: https://petsphere.infinityfree.me
+🔗 github.com/AyeshaCodes25
+
+---
+
+## 🏫 Institution
 📍 GC University Faisalabad — Department of Information Technology
